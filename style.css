@@ -206,10 +206,10 @@ section { scroll-margin-top: 78px; }
 .service-item { background: var(--paper); padding: 40px 32px; }
 .service-item .num {
   font-family: "Cormorant Garamond", serif;
-  font-size: 15px;
+  font-size: 25px;
   font-style: italic;
   color: var(--accent);
-  margin-bottom: 18px;
+  margin-bottom: 10px;
 }
 .service-item h3 {
   font-family: "Zen Old Mincho", serif;
